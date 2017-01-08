@@ -1,0 +1,20 @@
+{
+  "name": "phixi",
+  "version": "0.0.1",
+  "description": "Library for working with pixijs graphics Object",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/bundle"
+  },
+  "author": "Paulo Madronero",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^0.8.1",
+    "typescript": "^2.1.4",
+    "webpack": "^1.12.13"
+  },
+  "dependencies": {
+    "@types/pixi.js": "^4.3.1",
+    "pixi.js": "^4.3.1"
+  }
+}
