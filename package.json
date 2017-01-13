@@ -2,7 +2,7 @@
   "name": "phixi",
   "version": "0.0.1",
   "description": "Library for working with pixijs graphics Object",
-  "main": "index.js",
+  "main": "main.ts",
   "scripts": {
     "start": "node ./build/bundle"
   },

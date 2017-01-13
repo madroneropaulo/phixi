@@ -15,7 +15,7 @@ interface IFigurePosition {
     y: number
 }
 
-class Square {
+export class Square {
     private x: number;
     private y: number;
     private width: number;
